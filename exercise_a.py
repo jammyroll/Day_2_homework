@@ -4,6 +4,9 @@ stops = [ "Croy", "Cumbernauld", "Falkirk High", "Linlithgow", "Livingston", "Ha
 #1. Add "Edinburgh Waverley" to the end of the list
 stops.append('Edinburgh')
 print(stops)
+
+
+# kmki
 #2. Add "Glasgow Queen St" to the start of the list
 stops.insert(0 , 'Glasgow Queen Street')
 print(stops)
